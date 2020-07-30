@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Full-stack engineer at @bluethumbart, time zone overlaps advocate
+Full-stack engineer at Bluethumb, time zone overlaps advocate
+
 http://remotenearby.com/profiles/1-alex-timofeev
 
 <!--
