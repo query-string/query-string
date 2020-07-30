@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Full-stack engineer at @bluethumbart, time zone overlaps advocate
+http://remotenearby.com/profiles/1-alex-timofeev
+
 <!--
 **query-string/query-string** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
